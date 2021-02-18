@@ -1,4 +1,4 @@
-![imagem de capa](https://raw.githubusercontent.com/Natan-Abreu/profile/main/art-dois.png)
+![imagem de capa](https://github.com/Natan-Abreu/Natan-Abreu/blob/main/art-dois.png)
 
 <center>
 <table>
@@ -21,27 +21,27 @@ Busco me aperfeiçoar na área a cada dia, com muito estudo e dedicação.
 ## Redes Sociais
 
 <a href="https://www.linkedin.com/in/natan-abreu/">
-    <img src="https://github.com/Natan-Abreu/profile/blob/main/linkedin.png" width="20">
+    <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/linkedin.png" width="20">
     </img>
 </a> <a href="https://www.linkedin.com/in/natan-abreu/">LinkedIn </a>
 <br>
 <a href="https://www.instagram.com/__natvn/">
-    <img src="https://github.com/Natan-Abreu/profile/blob/main/instagram.png" width="20">
+    <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/instagram.png" width="20">
     </img>
 </a> <a href="https://www.instagram.com/__natvn/">Instagram </a>
 <br>
 <a href="https://www.twitch.tv/meu_principe">
-    <img src="https://github.com/Natan-Abreu/profile/blob/main/twitch.png" width="20">
+    <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/twitch.png" width="20">
     </img>
 </a> <a href="https://www.twitch.tv/meu_principe">Twitch </a>
 <br>
 <a href="https://web.telegram.org/#/login">
-    <img src="https://github.com/Natan-Abreu/profile/blob/main/telegram.png" width="20">
+    <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/telegram.png" width="20">
     </img>
 </a> <a href="https://web.telegram.org/#/login">Telegram (@biggienathan) </a>
 <br>
 <a href="">
-    <img src="https://github.com/Natan-Abreu/profile/blob/main/coding.png" width="20">
+    <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/coding.png" width="20">
     </img>
 </a> <a href="">E-mail (natan.nascimento4@etec.sp.gov.br) </a>
 

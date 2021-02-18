@@ -1,7 +1,3 @@
-<! -- ### Hi there 👋
-
----
--->
 ![imagem de capa](https://raw.githubusercontent.com/Natan-Abreu/profile/main/art-dois.png)
 
 <center>

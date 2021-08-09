@@ -13,7 +13,7 @@
 
 ## Olá, mundo! :)
 
-Sou o Natan, tenho 18 anos e me interesso por tecnologia desde sempre.
+Sou o Natan, tenho 19 anos e me interesso por tecnologia desde sempre.
 Busco me aperfeiçoar na área a cada dia, com muito estudo e dedicação.
 
 ---

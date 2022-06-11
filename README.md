@@ -13,7 +13,7 @@
 
 ## Olá, mundo! :)
 
-Sou o Natan, tenho 19 anos e me interesso por tecnologia desde sempre.
+Me chamo Natan Guilherme, sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi (UAM).
 Busco me aperfeiçoar na área a cada dia, com muito estudo e dedicação.
 
 ---

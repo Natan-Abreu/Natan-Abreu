@@ -28,7 +28,7 @@ Busco me aperfeiçoar na área a cada dia, com muito estudo e dedicação.
 <a href="https://www.instagram.com/onattan__/">
     <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/instagram.png" width="20">
     </img>
-</a> <a href="https://www.instagram.com/__natvn/">Instagram </a>
+</a> <a href="https://www.instagram.com/onattan__/">Instagram </a>
 <br>
 <a href="https://www.twitch.tv/meu_principe">
     <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/twitch.png" width="20">

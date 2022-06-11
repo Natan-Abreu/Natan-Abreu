@@ -25,7 +25,7 @@ Busco me aperfeiçoar na área a cada dia, com muito estudo e dedicação.
     </img>
 </a> <a href="https://www.linkedin.com/in/natan-abreu/">LinkedIn </a>
 <br>
-<a href="https://www.instagram.com/__natvn/">
+<a href="https://www.instagram.com/onattan__/">
     <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/instagram.png" width="20">
     </img>
 </a> <a href="https://www.instagram.com/__natvn/">Instagram </a>
@@ -34,11 +34,6 @@ Busco me aperfeiçoar na área a cada dia, com muito estudo e dedicação.
     <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/twitch.png" width="20">
     </img>
 </a> <a href="https://www.twitch.tv/meu_principe">Twitch </a>
-<br>
-<a href="https://web.telegram.org/#/login">
-    <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/telegram.png" width="20">
-    </img>
-</a> <a href="https://web.telegram.org/#/login">Telegram (@biggienathan) </a>
 <br>
 <a href="">
     <img src="https://github.com/Natan-Abreu/Natan-Abreu/blob/main/coding.png" width="20">

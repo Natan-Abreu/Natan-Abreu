@@ -13,7 +13,7 @@
 
 ## Olá, mundo! :)
 
-Me chamo Natan Guilherme, sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi (UAM).
+Me chamo Natan, sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi (UAM).
 Busco me aperfeiçoar na área a cada dia, com muito estudo e dedicação.
 
 ---
